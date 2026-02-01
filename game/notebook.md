@@ -14,4 +14,5 @@
 *Use this space to record your findings and deductions...*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
-Clue 1:Old note suggests reconsidering the town hall
+Clue 1:Old note suggests reconsidering the town hall.
+Clue 2:A local resident mentions seeing a shadowy figure entering the offices.
