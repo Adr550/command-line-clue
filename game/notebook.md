@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Postman
 - [X] The Jocker
-- [ ] The Blacksmith
+- [X] The Blacksmith
 
 ## Weapons
 - [X] Antique Compass
@@ -18,4 +18,6 @@ Clue 1:Old note suggests reconsidering the town hall.
 Clue 2:A local resident mentions seeing a shadowy figure entering the offices.
 Clue 3: Antique compass was crossed out and i was hinted to go at the shop aisles
 Clue4: crime ocurred at the aisles
-Clue5: crossed out walking stick and the jocker 
+Clue5: crossed out walking stick and the jocker
+Clue6: Found the Blacksmith at the office it was crossed out
+
