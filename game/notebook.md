@@ -6,7 +6,7 @@
 - [ ] The Blacksmith
 
 ## Weapons
-- [ ] Antique Compass
+- [X] Antique Compass
 - [ ] Brass Bell
 - [ ] Walking Stick
 
@@ -16,3 +16,4 @@
 Location of the crime is still unknown - the room must have been empty when it happened...
 Clue 1:Old note suggests reconsidering the town hall.
 Clue 2:A local resident mentions seeing a shadowy figure entering the offices.
+Clue 3: Antique compass was crossed out and i was hinted to go at the shop aisles
