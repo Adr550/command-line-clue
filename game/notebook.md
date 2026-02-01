@@ -21,3 +21,4 @@ Clue4: crime ocurred at the aisles
 Clue5: crossed out walking stick and the jocker
 Clue6: Found the Blacksmith at the office it was crossed out
 
+Clue7: Postman was the killer, using a brass bell in the aisles
